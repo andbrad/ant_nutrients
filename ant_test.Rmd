@@ -1,7 +1,7 @@
 ---
 title: "ant_nest_nutrients"
-author: "Allison Horst"
-date: "March 6, 2018"
+author: "Brad Anderson"
+date: "March 8, 2018"
 output: html_document
 ---
 
@@ -43,4 +43,4 @@ screeplot(ant_pca, type = "lines") # Shows the same information
 
 biplot(ant_pca, cex = 0.5)
 ```
-
+PP and K have low/ no correlation.
